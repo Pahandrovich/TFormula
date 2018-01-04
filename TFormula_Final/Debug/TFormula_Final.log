@@ -1,0 +1,17 @@
+﻿  TFormula.cpp
+e:\паша\university\аисд\tformula_final\tformula_final\tformula.cpp(19): warning C4154: удаление массива; выполнено преобразование к указателю
+e:\паша\university\аисд\tformula_final\tformula_final\tformula.cpp(20): warning C4154: удаление массива; выполнено преобразование к указателю
+e:\паша\university\аисд\tformula_final\tformula_final\tformula.cpp(45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+e:\паша\university\аисд\tformula_final\tformula_final\tformula.cpp(59): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+e:\паша\university\аисд\tformula_final\tformula_final\tformula.cpp(144): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+e:\паша\university\аисд\tformula_final\tformula_final\tformula.cpp(160): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+e:\паша\university\аисд\tformula_final\tformula_final\tformula.cpp(184): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+e:\паша\university\аисд\tformula_final\tformula_final\tformula.cpp(203): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+  Создание кода...
+  Компиляция...
+  main.cpp
+e:\паша\university\аисд\tformula_final\tformula_final\main.cpp(14): warning C4101: c: неиспользованная локальная переменная
+e:\паша\university\аисд\tformula_final\tformula_final\main.cpp(14): warning C4101: str2: неиспользованная локальная переменная
+  TStack.cpp
+  Создание кода...
+  TFormula_Final.vcxproj -> E:\ПАША\University\АиСД\TFormula_Final\Debug\TFormula_Final.exe
